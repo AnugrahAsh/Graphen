@@ -1,9 +1,9 @@
-This isn’t the best I’m capable of—I know I can do much better than this. I have the taste and the vision to deliver something far stronger.
+This submission does not reflect my full capabilities. I’m confident I can deliver work at a much higher standard, both in terms of execution and design.
 
-I want to be honest: I had a family emergency that affected my work during this time. I’m not using that as an excuse, just giving you the context.
+For transparency, the presentation was AI-assisted and completed during my internship hours. I’m not presenting this as an excuse—I take full responsibility for the outcome.
 
-I take full responsibility for the outcome, and I know my actual capability is much higher than what this reflects. I’m confident I can deliver work that truly matches my standards moving forward.
- 
+My strengths lie in frontend development and UI/UX design. If you’d like to review my work, you can visit my portfolio:
+https://moronsupport.tech
 
 <div align="center">
 

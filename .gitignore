@@ -20,6 +20,10 @@
 # production
 /build
 
+# turbo / caching
+.turbo/
+.cache/
+
 # misc
 .DS_Store
 *.pem
@@ -30,8 +34,11 @@ yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
-# env files (can opt-in for committing if needed)
+# env files (keep secure)
 .env*
+
+# allow example env file
+!.env.example
 
 # vercel
 .vercel
@@ -39,3 +46,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# editors
+.vscode/
+.idea/
